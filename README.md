@@ -76,9 +76,3 @@ project/
 │── package.json
 │── README.md
 ```
-
-If you want, I can also:
-✅ Add badges (React, Node, MongoDB, etc.)
-✅ Add screenshots of your homepage
-✅ Add installation & setup instructions
-Just tell me!
